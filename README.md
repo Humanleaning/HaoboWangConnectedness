@@ -1,0 +1,4 @@
+-用于夏令营申请证明
+-计算RIX，OIVaR等尾部风险指标
+-提供线性插值，LCKernel，LLKernel等波动率插值方法
+-提供OptionMetric原始数据清理功能
